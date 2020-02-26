@@ -6,5 +6,4 @@ Hardware platform is designed for the **Due** variant of the project in **Autode
 Design: Luis Ernesto Fernández R
 December 2019
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
